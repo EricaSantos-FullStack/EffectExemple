@@ -1,0 +1,35 @@
+.centralizar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(270.97deg, rgba(109, 109, 109, 0.58) -3.85%, rgba(255, 255, 255, 0) 57.5%), linear-gradient(270deg, #FFFFFF 36.44%, rgba(255, 255, 255, 0) 93.22%), #D1B0D7;;
+    padding: 12px;
+    box-shadow: 6px 6px 15px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 16px;
+    box-sizing: border-box;
+}
+
+.botao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+button {
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+    background: #6D6D6D;
+    box-shadow: 0px 3px 6px rgba(119, 119, 119, .1);
+    padding: 10px 15px;
+    outline: #4E3B42;
+    cursor: pointer;
+}
