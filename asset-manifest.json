@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/EricaSantos-FullStack/EffectExemple/static/css/main.11d72377.chunk.css",
-    "main.js": "/EricaSantos-FullStack/EffectExemple/static/js/main.31bf4d05.chunk.js",
-    "main.js.map": "/EricaSantos-FullStack/EffectExemple/static/js/main.31bf4d05.chunk.js.map",
-    "runtime-main.js": "/EricaSantos-FullStack/EffectExemple/static/js/runtime-main.9158203a.js",
-    "runtime-main.js.map": "/EricaSantos-FullStack/EffectExemple/static/js/runtime-main.9158203a.js.map",
-    "static/js/2.793d78a6.chunk.js": "/EricaSantos-FullStack/EffectExemple/static/js/2.793d78a6.chunk.js",
-    "static/js/2.793d78a6.chunk.js.map": "/EricaSantos-FullStack/EffectExemple/static/js/2.793d78a6.chunk.js.map",
-    "static/js/3.ce29a710.chunk.js": "/EricaSantos-FullStack/EffectExemple/static/js/3.ce29a710.chunk.js",
-    "static/js/3.ce29a710.chunk.js.map": "/EricaSantos-FullStack/EffectExemple/static/js/3.ce29a710.chunk.js.map",
-    "index.html": "/EricaSantos-FullStack/EffectExemple/index.html",
-    "static/css/main.11d72377.chunk.css.map": "/EricaSantos-FullStack/EffectExemple/static/css/main.11d72377.chunk.css.map",
-    "static/js/2.793d78a6.chunk.js.LICENSE.txt": "/EricaSantos-FullStack/EffectExemple/static/js/2.793d78a6.chunk.js.LICENSE.txt",
-    "static/media/dance.9361f550.gif": "/EricaSantos-FullStack/EffectExemple/static/media/dance.9361f550.gif"
+    "main.css": "/EffectExemple/static/css/main.11d72377.chunk.css",
+    "main.js": "/EffectExemple/static/js/main.31bf4d05.chunk.js",
+    "main.js.map": "/EffectExemple/static/js/main.31bf4d05.chunk.js.map",
+    "runtime-main.js": "/EffectExemple/static/js/runtime-main.73f76e90.js",
+    "runtime-main.js.map": "/EffectExemple/static/js/runtime-main.73f76e90.js.map",
+    "static/js/2.793d78a6.chunk.js": "/EffectExemple/static/js/2.793d78a6.chunk.js",
+    "static/js/2.793d78a6.chunk.js.map": "/EffectExemple/static/js/2.793d78a6.chunk.js.map",
+    "static/js/3.ce29a710.chunk.js": "/EffectExemple/static/js/3.ce29a710.chunk.js",
+    "static/js/3.ce29a710.chunk.js.map": "/EffectExemple/static/js/3.ce29a710.chunk.js.map",
+    "index.html": "/EffectExemple/index.html",
+    "static/css/main.11d72377.chunk.css.map": "/EffectExemple/static/css/main.11d72377.chunk.css.map",
+    "static/js/2.793d78a6.chunk.js.LICENSE.txt": "/EffectExemple/static/js/2.793d78a6.chunk.js.LICENSE.txt",
+    "static/media/dance.9361f550.gif": "/EffectExemple/static/media/dance.9361f550.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.9158203a.js",
+    "static/js/runtime-main.73f76e90.js",
     "static/js/2.793d78a6.chunk.js",
     "static/css/main.11d72377.chunk.css",
     "static/js/main.31bf4d05.chunk.js"
